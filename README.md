@@ -1,3 +1,5 @@
+[Link](getting started.md)
+
 ## Welcome to GitHub Pages
 
 ### Kendra is testing a change here!
