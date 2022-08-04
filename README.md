@@ -1,3 +1,7 @@
+
+# Check out our new blog here: [link](blog/august_4.md) 
+
+
 [Link](docs/Test_file.md)
 
 ## Welcome to GitHub Pages
