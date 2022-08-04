@@ -1,6 +1,8 @@
 
 # Check out our new blog here: [link](blog/august_4.md) 
 
+# Thomas Added API docs [here](api/Readme.md)
+
 
 [Link](docs/Test_file.md)
 
