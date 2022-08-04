@@ -1,4 +1,4 @@
-[Link](getting started.md)
+[Link](docs/Test_file.md)
 
 ## Welcome to GitHub Pages
 
