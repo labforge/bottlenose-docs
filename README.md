@@ -5,7 +5,7 @@ test change by YR
 
 ## Test contents
 
-1. [Link](labforge.guthub.io/test file.md)
+1. [Link](https://github.com/labforge/bottlenose-docs/edit/main/test file.md)
 
 You can use the [editor on GitHub](https://github.com/labforge/bottlenose-docs/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
