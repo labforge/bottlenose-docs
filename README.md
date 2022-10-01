@@ -1,4 +1,4 @@
-**## Getting Started**
+**# Getting Started**
 # Thank You
 # Included in the Box
 # Hardware Requirements
@@ -9,4 +9,4 @@
 # Code Samples and Documentation
 # License Agreement for Bottlenose Hardware and Software
 
-**## User Manual**
+**# User Manual**
