@@ -1,4 +1,4 @@
-# **Getting Started**
+# [**Getting Started**](#getting-started)
 ## [Thank You](#thank-you)
 ## [Included in the Box](#included-in-the-box)
 ## [Hardware Requirements](#hardware-requirements)
@@ -18,6 +18,7 @@
 
 
 
+# **Getting Started**
 ## Thank you
 ## Included in the Box
 ## Hardware Requirements
