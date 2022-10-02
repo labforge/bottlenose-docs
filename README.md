@@ -1,6 +1,6 @@
 # **Getting Started**
-## Thank You
-## Included in the Box
+1. [Thank You] (#thankyou)
+2. [Included in the Box] (#includedinthebox)
 ## Hardware Requirements
 ## Software Requirements
 ## Connecting Your Camera
