@@ -1,5 +1,5 @@
 # **Getting Started**
-## [Go to Thank You section](#thank-you)
+## [Thank You](#thank-you)
 ## Included in the Box
 ## Hardware Requirements
 ## Software Requirements
