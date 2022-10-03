@@ -48,13 +48,50 @@
         - ## [Define the Region of Interest](#define-the-region-of-interest)
         - ## [Set the Acquisition Frame Rate](#set-the-acquisition-frame-rate)
         - ## [Set the Exposure Time](#set-the-exposure-time)
-   
-   
-    
-        
-    
-
-
+        - ## [Select the Desired Components](#select-the-desired-components)
+        - ## [Select the Desired Pixel Formats](#select-the-desired-pixel-formats)
+        - ## [Pixel Binning](#pixel-binning)
+    - ## [Mounting](#mounting)
+        - ## [Mounting Instructions](#mounting-instructions)
+        - ## [Required Parts](#required-parts)
+        - ## [Mounting the Camera](#mounting-the-camera)
+        - ## [Thermal Considerations](#thermal-considerations)
+- ## [Measurement Principles](#measurement-principles)
+    - ## [Stereo Vision](#stereo-vision)
+    - ## [Sensor Dynamics](#sensor-dynamics)
+- ## [Software Modules](#software-modules)
+    - ## [3D Camera Modules](#3d-camera-modules)
+    - ## [Navigation Modules](#navigation-modules)
+    - ## [Detection Modules](#detection-modules)
+    - ## [Configuration Modules](#configuration-modules)
+    - ## [Database Modules](#database-modules)
+- ## [Interfaces](#interfaces)
+    - ## [GigE Vision 2.1](#gige-vision-2.1)
+    - ## [Time Synchronization](#time-synchronization)
+- ## [Care Instructions](#care-instructions)
+    - ## [Lens Cleaning](#lens-cleaning)
+    - ## [Camera Calibration](#camera-calibration)
+    - ## [Creating and Restoring Backups of Settings](#creating-and-restoring-backups-of-settings)
+    - ## [Updating the Firmware](#updating-the-firmware)
+        - ## [Restoring the Previous Firmware Version](#restoring-the-previous-firmware-version)
+    - ## [Rebooting](#rebooting)
+    - ## [Updating the Software License](#updating-the-software-license)
+    - ## [Downloading Log Files](#downloading-log-files)
+- ## [Troubleshooting](#troubleshooting)
+    - ## [LED Colour Glossary](#led-colour-glossary)
+    - ## [Hardware Issues](#hardware-issues)
+    - ## [Connectivitu Issues](#connectivity-issues)
+    - ## [Camera-Image Issues](#camera-image-issues)
+    - ## [Depth and Disparity, Effort, Confidence Image Issues](#depth-and-disparity-effort-confidence-image-issues)
+    - ## [Dynamic Issues](#dynamic-issues)
+    - ## [GigE Vision 2.1 Issues](#gige-Vision-2.1-issues)
+ - ## [Declaration Conformity](#declaration-conformity)
+    - ## [For North America: FCC and IC](#for-north-america-fcc-and-ic)
+    - ## [For Europe and Japan: Engineering Samples](#for-europe-and-japan-engineering-samples)
+- ## [Contact](#contact)
+    - ## [Support](#support)
+    - ## [Downloads](#downloads)
+    - ## [Address](#address)  
 
 # **Getting Started**
 ## Thank you
@@ -65,13 +102,7 @@
 ## Download and Install the SDK
 ## Run and Launch the Labforge Viewer
 ## Code Samples and Documentation
-## License Agreement for Bottlenose Hardware and Software
-
-
-
-
-    
-    
+## License Agreement for Bottlenose Hardware and Software  
     
 # **User Manual**
 ## Introduction
