@@ -33,11 +33,23 @@
 
 
 # **User Manual**
-## Introduction
-## Overview
-## Camera Models
-## Warranty
+- ## [Introduction](#introduction)
+    - ## [Overview](#overview)
+         - ## [Camera Models](#camera-models)
+    - ## [Warranty](#warranty)
+  - ## [Information on Disposal](#information-on-disposal)
+  - ## [Glossary](#glossary)
     
+    
+    
+    
+    # **User Manual**
+    ## Introduction
+    ## Overview
+    ## Camera Models
+    ## Warranty
+    ## Information on Disposal
+    ## Glossary
 
 
 
