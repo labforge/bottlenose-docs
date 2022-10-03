@@ -11,11 +11,14 @@
 
 
 
-# [**User Manual**](#user-manual)
-## 1. [Introduction](#introduction)
-##  1.1 [Overview](#overview)
-##      1.1.1 [Camera Models](camera-models)
-##  1.2 [Warranty](#warranty)
+# **User Manual**
+- ## [Introduction](#introduction)
+    - ## [Overview](#overview)
+         - ## [Camera Models](#camera-models)
+    - ## [Warranty](#warranty)
+  - ## [Information on Disposal](#information-on-disposal)
+  - ## [Glossary](#glossary)
+    
 
 
 
@@ -32,14 +35,7 @@
 
 
 
-# **User Manual**
-- ## [Introduction](#introduction)
-    - ## [Overview](#overview)
-         - ## [Camera Models](#camera-models)
-    - ## [Warranty](#warranty)
-  - ## [Information on Disposal](#information-on-disposal)
-  - ## [Glossary](#glossary)
-    
+
     
     
     
