@@ -39,13 +39,13 @@
     
     
     
-    # **User Manual**
-    ## Introduction
-    ## Overview
-    ## Camera Models
-    ## Warranty
-    ## Information on Disposal
-    ## Glossary
+# **User Manual**
+## Introduction
+## Overview
+## Camera Models
+## Warranty
+## Information on Disposal
+## Glossary
 
 
 
