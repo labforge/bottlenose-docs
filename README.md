@@ -18,6 +18,40 @@
     - ## [Warranty](#warranty)
   - ## [Information on Disposal](#information-on-disposal)
   - ## [Glossary](#glossary)
+- ## [Safety](#safety)
+    - ## [General Warnings](#general-warnings)
+    - ## [Intended Use](#intended-use)  
+    - ## [Limitation of Liability](#limitation-of-liability)
+    - ## [Hot Surfaces](#hot-surfaces)
+    - ## [Cybersecurity](#cybersecurity)
+    - ## [License Agreement for Bottlenose Hardware and Software](#license-agreement-for-bottlenose-hardware-and-software)
+- ## [Hardware Specifications](#hardware-specifications)
+    - ## [General Specifications](#general-specifications)
+        - ## [Dimenstions and Mounting Holes](#dimensions-and-mounting-holes)
+        - ## [Lense](#lenses)
+    - ## [Scope of Delivery](#scope-of-delivery)
+    - ## [Technical Specifications](#technical-specifications)
+    - ## [Optical Filters](#optical-filters)
+        - ## [NIR Filter Specifications and Replacement](#NIR-filter-specifications-and-replacement)
+    - ## [Environmental and Operational Conditions](#environmental-and-operational-conditions)
+        - ## [Stress Test Results](#stress-test-results)
+    - ## [Power Supply Specifications](#power-supply-specifications)
+    - ## [Wiring](#wiring)
+    - ## [Mechanical Interface](#mechanical-interface)
+    - ## [Coordinate Frames](#coordinate-frames)
+- ## [Installation](#installation)
+    - ## [Software License](#software-license)
+    - ## [Power Up](#power-up)
+    - ## [Network Configuration](#network-configuration)
+    - ## [Camera Configuration](#camera-configuration)
+        - ## [Calibration](#calibration)
+        - ## [Define the Region of Interest](#define-the-region-of-interest)
+        - ## [Set the Acquisition Frame Rate](#set-the-acquisition-frame-rate)
+        - ## [Set the Exposure Time](#set-the-exposure-time)
+   
+   
+    
+        
     
 
 
