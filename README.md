@@ -1,20 +1,21 @@
 # [**Getting Started**](#getting-started)
-## [Thank You](#thank-you)
-## [Included in the Box](#included-in-the-box)
-## [Hardware Requirements](#hardware-requirements)
-## [Software Requirements](#sofware-requirements)
-## [Connecting Your Camera](#connecting-your-camera)
-## [Download and Install the SDK](#download-and-install-the-SDK)
-## [Run and Launch the Labforge Viewer](#run-and-launch-the-labforge-viewer)
-## [Code Samples and Documentation](#code-samples-and-documentation)
-## [License Agreement for Bottlenose Hardware and Software](#license-agreement-for-bottlenose-hardware-and-software)
+## 1. [Thank You](#thank-you)
+## 2. [Included in the Box](#included-in-the-box)
+## 3. [Hardware Requirements](#hardware-requirements)
+## 4. [Software Requirements](#sofware-requirements)
+## 5. [Connecting Your Camera](#connecting-your-camera)
+## 6. [Download and Install the SDK](#download-and-install-the-SDK)
+## 7. [Run and Launch the Labforge Viewer](#run-and-launch-the-labforge-viewer)
+## 8. [Code Samples and Documentation](#code-samples-and-documentation)
+## 9. [License Agreement for Bottlenose Hardware and Software](#license-agreement-for-bottlenose-hardware-and-software)
 
 
 
 # [**User Manual**](#user-manual)
-## [Introduction](#introduction)
-## Overview
-## Camera Models
+## 1. [Introduction](#introduction)
+##  1.1 [Overview](#overview)
+##      1.1.2 [Camera Models](camera-models)
+##  1.2 [Warranty](#warranty)
 
 
 
@@ -33,8 +34,9 @@
 
 # **User Manual**
 ## Introduction
-    ## * Overview
-        ## - Camera Models
+## Overview
+## Camera Models
+## Warranty
     
 
 
