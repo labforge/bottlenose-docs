@@ -27,8 +27,8 @@
     - ## [License Agreement for Bottlenose Hardware and Software](#license-agreement-for-bottlenose-hardware-and-software)
 - ## [Hardware Specifications](#hardware-specifications)
     - ## [General Specifications](#general-specifications)
-        - ## [Dimenstions and Mounting Holes](#dimensions-and-mounting-holes)
-        - ## [Lense](#lenses)
+        - ## [Dimensions and Mounting Holes](#dimensions-and-mounting-holes)
+        - ## [Lens](#lenses)
     - ## [Scope of Delivery](#scope-of-delivery)
     - ## [Technical Specifications](#technical-specifications)
     - ## [Optical Filters](#optical-filters)
@@ -80,7 +80,7 @@
 - ## [Troubleshooting](#troubleshooting)
     - ## [LED Colour Glossary](#led-colour-glossary)
     - ## [Hardware Issues](#hardware-issues)
-    - ## [Connectivitu Issues](#connectivity-issues)
+    - ## [Connectivity Issues](#connectivity-issues)
     - ## [Camera-Image Issues](#camera-image-issues)
     - ## [Depth and Disparity, Effort, Confidence Image Issues](#depth-and-disparity-effort-confidence-image-issues)
     - ## [Dynamic Issues](#dynamic-issues)
@@ -111,6 +111,80 @@
 ## Warranty
 ## Information on Disposal
 ## Glossary
+## Safety
+## General Warnings
+## Intended Use
+## Limitation of Liability
+## Hot Surfaces
+## Cybersecurity
+## License Agreement for Bottlenose Hardware and Software
+## Hardware Specifications
+## General Specifications
+## Dimensions and Mounting Holes
+## Lens
+## Scope of Delivery
+## Technical Specifications
+## Optical Filters
+## NIR Filter Specifications and Replacement
+## Environmental and Operational Conditions
+## Stress Test Results
+## Power Supply Specifications
+## Wiring
+## Mechanical Interface
+## Coordinate Frames
+## Installation
+## Software License
+## Power Up
+## Network Configuration
+## Camera Configuration
+## Calibration
+## Define the Region of Interest
+## Set the Acquisition Frame Rate
+## Set the Exposure Time
+## Select the Desired Components
+## Select the Desired Pixel Formats
+## Pixel Binning
+## Mounting
+## Mounting Instructions
+## Required Parts
+## Mounting the Camera
+## Thermal Considerations
+## Measurement Principles
+## Stereo Vision
+## Sensor Dynamics
+## Software Modules
+## 3D Camera Modules
+## Navigation Modules
+## Detection Modules
+## Configuration Modules
+## Database Modules
+## Interfaces
+## GigE Vision 2.1
+## Time Synchronization
+## Care Instructions
+## Lens Cleaning
+## Camera Calibration
+## Creating and Restoring Backups of Settings
+## Updating the Firmware
+## Restoring the Previous Firmware Version
+## Rebooting
+## Updating the Software License
+## Downloading Log Files
+## Troubleshooting
+## LED Colour Glossary
+## Hardware Issues
+## Connectivity Issues
+## Camera-Image Issues
+## Depth and Disparity, Effort, Confidence Image Issues
+## Dynamic Issues
+## GigE Vision 2.1 Issues
+## Declaration Conformity
+## For North America: FCC and IC
+## For Europe and Japan: Engineering Samples
+## Contact
+## Support
+## Downloads
+## Address
 
 
 
