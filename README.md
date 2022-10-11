@@ -1,6 +1,6 @@
 # [**Getting Started**](#getting-started)
 - ## [Thank You](#thank-you-1)
-- ## [Included in the Box](#included-in-the-box-2)
+- ## [Included in the Box](#included-in-the-box-1)
 - ## [Hardware Requirements](#hardware-requirements)
 - ## [Software Requirements](#sofware-requirements)
 - ## [Connecting Your Camera](#connecting-your-camera)
