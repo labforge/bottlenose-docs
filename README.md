@@ -101,6 +101,7 @@ Congratulations on purchasing a Labforge Bottlenose smart camera! As a small, Ca
 Bottlenose is available in two versions: stereo and monocular. 
 Inside the box for the stereo version you will find the Labforge Bottlenose stereo camera and a business card with our support and contact information.
 
+![image](/docs/assets/mono-stereo-and-som-Dimension-renders.png)
 
 ## Hardware Requirements
 ## Software Requirements
