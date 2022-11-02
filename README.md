@@ -95,7 +95,13 @@
 
 # **Getting Started**
 ## Thank you
+Congratulations on purchasing a Labforge Bottlenose smart camera! As a small, Canadian company we sincerely appreciate your business. Please don’t hesitate to reach out to us at support@labforge.ca should you have any questions or need assistance.  
+
 ## Included in the Box
+Bottlenose is available in two versions: stereo and monocular. 
+Inside the box for the stereo version you will find the Labforge Bottlenose stereo camera and a business card with our support and contact information.
+
+
 ## Hardware Requirements
 ## Software Requirements
 ## Connecting Your Camera
